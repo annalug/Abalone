@@ -1,4 +1,4 @@
 # Abalone
-Previsão da idade de um albalone (que é uma espécie de molusco marinho) através de características físicas disponibilizadas em um conjunto de dados.
+Predicting the age of an albalone (which is a species of marine mollusc) through physical characteristics provided in a dataset.
 
-Dataset disponível em: https://archive.ics.uci.edu/ml/datasets/abalone
+Dataset available in: https://archive.ics.uci.edu/ml/datasets/abalone
